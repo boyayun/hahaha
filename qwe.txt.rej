@@ -1,7 +1,7 @@
 diff a/qwe.txt b/qwe.txt	(rejected hunks)
-@@ -1,3 +1,5 @@
+@@ -1,2 +1,3 @@
  123
- 456
- 789
-+012
-+
+-456
+\ No newline at end of file
++456
++abc
