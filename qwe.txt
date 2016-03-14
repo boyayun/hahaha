@@ -4,6 +4,7 @@ loc_rem_3
 loc_4
 
 rem_4
+<<<<<<< HEAD
 loc_5
 loc_5
 loc_5
@@ -12,3 +13,8 @@ loc_5
 loc_5
 loc_5
 loc_5
+=======
+rem_5
+rem_5
+rem_5
+>>>>>>> c96a7e4c83b7b75967a144283cf9eacd49a13b4a
